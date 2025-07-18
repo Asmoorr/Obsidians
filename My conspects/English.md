@@ -582,5 +582,549 @@ So, it is important to know that he is pretty opposite to his role model. For ex
 
 In conclution I want to say that Larry is a very intellegent and smart person. He is always very polite and, to my mind, rather hardworking, as he hasn't skipped any English lessons. He is not so self-confident, as it is difficult for him tell possitive sides of his personality. Also he is comfortable person, who, i m sure, will be very succesfull
 
-Larry. The bird. Alpred Hischhock thriller/horror
+**Larry. The bird**
+I would like to tell you about Larry’s favorite film. This is The birds, a classic thriller and horror movie directed by Alfred Hitchcock. This film was released in 1963 and is famous for its terrifying atmosphere.
 
+The story takes place in a small town called Bodega Bay, where a series of mysterious bird attacks begins. The main characters are Melanie Daniels and Mitch Brenner. Melanie goes to Bodega Bay to surprise Mitch, but things quickly change when large groups of birds suddenly start attacking people for no reason. The film doesn't explain why the birds act like this, which makes it even more frightening.
+
+Larry enjoys this film because of its intense clever storytelling. He admires Hitchcock’s ability to create fear without relying on modern special effects. There is even no music in the movie. It makes it even more scacy. Also, this film doesn't answer any questions in the end, it has open-ended conclusion and leaves room for interpretation. Larry also appreciates the strong performances of the actors, particularly Tippi Hedren, who plays Melanie.
+
+# Lesson 11
+
+I used to live in the city-center as I liked hustle and bussle of a metropolis, a lot of previlages such as developed means of transport, unirative empoyment, endlees entertainment, beeing in the middle of the action. On the downside insufficient green space, street were jam packed,  street noise can be defening sometimes.
+
+| Английское слово            | Перевод на русский                |
+| --------------------------- | --------------------------------- |
+| hustle and bustle           | шум и гам                         |
+| metropolis                  | мегаполис                         |
+| privilege                   | привилегия                        |
+| facility                    | объект, учреждение                |
+| remunerative                | высокооплачиваемый                |
+| lucrative                   | прибыльный, выгодный              |
+| vacancy                     | вакансия                          |
+| in the middle of the action | в самом центре событий            |
+| on the downside             | с негативной стороны              |
+| jam-packed                  | переполненный                     |
+| insufficient                | недостаточный                     |
+| down-and-out                | обедневший, в отчаянном положении |
+| deafening                   | оглушающий                        |
+| sweat                       | пот                               |
+| leather                     | кожа                              |
+| sweater                     | свитер                            |
+| read                        | читать                            |
+| cleanse                     | очищать                           |
+
+ Public transport, remunerative jobs, entartainment facilities, sights (museums, monuments etc), career development / progress, lack of down-and-outs
+ Crowd, jam packed streets, traffic jams, expensive life
+ Two level roads, build some modern houses, promote mortgages
+ job market, vacancy, transport fares, salary, income, income bracket, shopping centers, parks, concerts
+# Lesson 12
+
+0) Fire engine пожарная машина
+1) Wrap
+2) Commercial
+3) Babble
+4) Patting
+5) Wrinkled
+6) Limp
+7) Lap
+8) Bounce
+9) Totter
+10) Hose
+11) Siren
+12) In a row
+
+1) a Fire engine
+2) b Hose
+3) c Tottered
+4) d Wrap
+5) e In a row
+6) f Patting
+7) g Siren
+8) h Bounce
+9) iCommercial
+10) j Babble
+11) k Limp
+12) l Wrinkled
+13) n Lap
+
+1) in a row
+2) commercials
+3) ran into
+4) wrapped
+5) patting
+6) found up
+7) babbling
+8) limp
+
+1) lap
+2) wrinkled up
+3) extra
+4) tottering
+5) tore (tear) (ea, not e)
+6) fire engine
+7) hoses
+
+1) howl
+2) knock down (сбить, smth falls down)
+3) tore
+4) .
+5) .
+6) swat
+7) tremble
+8) toddle
+9) yell
+10) .
+11) .
+
+2.13
+1) Peter Petter put all the tore wrapping pappers in the wagon
+2) Peter tried to show little borther how to build 
+3) Little brother swatted the tower down with his hand and laughed
+4) When he knocked it down
+5) Then he knocked the tower down
+2.14
+1) Put it on her lap
+2) He can still feel
+3) Petter let him toddle and knock down the tower
+4) Thats when little brother broke the fire engine
+
+### Little Brother
+Tear tore torn     Stack      Swat    Knock down    Grab   Lap 
+Howl   Toddle  toddler    Tremble   Yell   Spin span   spank
+Matching Exercise 
+In a row       Commercial        Wrap        Patting         Babble         Limp        Lap        
+Wrinkled         Bounce        Tottered          Fire Engine           Hose           Siren 
+In a row       Commercial        Wrap        Patting         Babble         Limp        Lap        
+Wrinkled         Bounce        Tottered          Fire Engine           Hose           Siren 
+
+The story begins from Christmass, when little boy Peter, who has been waiting for the young brother for 3 years in a row, gets a new toy. It's called Little Broter and it acts like a real child. Firstly, Peter was happy with it, but one moment Little brother started to knock down Peter's toy block buildings and it even breaks Peter second Christmass present - a toy fire engine. So Peter decides to turn off Little Brother by pressing a button on his neck. But his mother is angy with him and she didn't let him do it. As Peter was against, she finally turns on Peter own button.
+
+The story begins at Christmas, when a little boy named Peter, who has been waiting for a younger brother for three years in a row, gets a new toy. It’s called Little Brother, and it acts like a real child. At first, Peter is happy with it, but one day Little Brother starts to knock down Peter’s toy block buildings. It even breaks Peter’s second Christmas present, a toy fire engine. Peter grabs Little Brother and tries to turn it off by pressing a button on its neck. However, his mother gets angry with him and doesn’t let him do it. While Peter yells and refuses to give up, his mother finally decides to press Peter’s own button.
+
++
+higher salary
+learn new culture
+improve language
+friends from another cultures
+travel around the world
+
+-
+homesick
+communication difficulies
+different culture
+money for moving
+time to prepare
+high cost of living
+law difficults
+
+1- Intorduction Nowadays there is an increasing number of people working abroad. In this essay i will discuss the advantages and disadvantages of working abroad and i will provide my own personal opinion.
+
+2 - Obviously there are two main advantages. Firstly... Secondly (advantage + example (general or personal)) (develop communication skills for ex.)
+
+3 - On the other hand, ...... and ........ are the disadvantages. (for instance)
+
+4 - Conclusion (1 or 2 parts) In conclusion advantages outway disadvantages. In my opinion .....d
+
+Nowadays there are a lot of people working abroad. In this essay I am going to discuss the advantages and disadvantages of being so far away for getting salary and I will provide my personal opinion.
+Obviously there are two main advantages. Firstly, if you work abroad, you can find lots of possibilities for your career. For example, you would probably have more well-payed job and better team you are working with, simply because you can able to chose from many employers. Secondly, being in another country can be very valuable experience for your culture and language knowladge. You may bump into a lot new things. For instance, my bother have been distance working for a German company for some time. And one day his boss suggested him to visit Germany for 2 moth to work (очно) with his colleagues. He told, that it was a great opportune to learn about local culture and simply to trip around the world.
+On the other hand, moving diffuculties and language barier are the disadvantages. Well, of course moving so generally can be hard (заменить синонимом). You need to have a lot documents, each and everyone of them must be done for some time (заменить лучшей формулировкой, сохранить формлировку each and everyone или ей подобную). Sometimes creating a document can money not everyone can afford.  not to mention the fact that you can't move to some countries, that you probably would like to. For example, to be the resident of USA you must have a Green Card. There are some possiblities to get it, but the process is not ended by this point. You have to pay a lot of money to finally come to America and go though many interwiews. For example, the consular and green card fees are already over $600. Also, you level of local language can be a problem. If you are not conviniet in everyday cominication words, it can be difficult (заменить) to live somewhere. My brother found a lot new option in language while living in English-speaking country.
+In conclusion advantages outway disadvantages. In my opinion .....d
+
+**Working Abroad: Pros and Cons**
+
+Nowadays, many people choose to work abroad. In this essay I will discuss the advantages and disadvantages of being so far away for getting salary and I will provide my personal opinion.
+
+There are two main advantages. Firstly, working abroad offers many career opportunities. For example, you can find better-paid jobs and work in more interesting teams because you can choose from many employers. Secondly, living in another country provides valuable cultural and language experience. You may find out new traditions and habits. For instance, my brother worked remotely for a German company and one day his boss invited him to spend two months working on-site with his colleagues in Germany. He said it was a great chance to learn about local culture and travel.
+
+On the other hand, challenges like relocation and language barriers can be disadvantages. You need to prepare many documents and making of each and every one of them takes a lot of time. There are cases, when the cost of preparing these documents is unaffordable for some people. Additionally, not all countries are easy to move to. For example, you must have a Green Card to live in the USA. While there are ways to obtain one, the process doesn’t end there. You also have to pay significant fees and attend interviews. For instance, the consular and Green Card fees alone exceed more than $600. Language barier can also be a problem. If you are not confident in everyday communication, it may be challenging to adapt to new conditions.
+
+In conclusion, although working abroad has its difficulties, the advantages outweigh the disadvantages. In my opinion, gaining career opportunities and cultural experience makes it worth trying.
+# Lesson 13
+Troubled past
+We were out on a date
+She is my date / I am her date
+go and her out
+she turn me on, like chemistry 
+chat up and hit on somebody
+it hit me - i understood
+freak out - you feel stressed, you are not okay
+have a crush on someone - you are in love with someone
+someone moved in - she left her place of leaving and moved to live somewhere
+hump - back troubles like camels
+hairpiece - toruble with hair
+some one reached in down, grab his small intestine, pull of his mouth and tied it around his neck
+aura
+cleanse - to make clear
+murky - dirty
+to hell with somebody
+say it out loud
+they seem to be taking it pretty well
+hysterical phone call
+sob on the phone
+strip joints
+decaf
+gravy boat - соусник
+drift apart
+
+Nothing good about using a lot of AI. we don't know this technology? Why will it be useful? We dont know
+1) Optimize tasks in a bad way and to change mistakes takes too much time
+In very small cases it works better
+2) Safety? Tesla? And how many acidents happend because of AI? Who is to blame in this cases
+3) Recommedations - neural networks not AI
+4) Medecine - if a mistake happen? Who is to blame? 
+5) It is coming to every sphere but is good
+6) A lot of bad data. copilot. it can't compare
+7) Art
+8) You are talking about small neural networks
+
+# Lesson 14
+, baffled by a sires of bezzare thefts sea gull with a sea with a eye, it takes crips amused and perplexed, one day it will be a legend
+a local shop keeper was baffled by .. commited by. , people like to share tales about the shoplifter and one day it will become a legend
+
+in a bustled seaside town a local shopkeeper was baffled by series of bezzare thefts commited a bird. The security footage revealed the mistery. It was a sea gull with a keen eye.
+
+| Английское слово                       | Перевод на русский |
+| -------------------------------------- | ------------------ |
+| a means of, a mean of                  |                    |
+| bustling                               |                    |
+| a seaside                              |                    |
+| baffled                                |                    |
+| a series of                            |                    |
+| bizzarre / weird / strange / eccentric |                    |
+| to reveal                              |                    |
+| to conceal                             |                    |
+| a footage                              |                    |
+| to make of with (to sreal)             |                    |
+| to rip                                 |                    |
+| amused                                 |                    |
+| baffled, perplexed, puzzled, confused  |                    |
+| tale                                   |                    |
+| keen                                   |                    |
+| theif                                  |                    |
+| theft                                  | кража              |
+| shoplifter                             |                    |
+| notorious (badly famouse)              |                    |
+| custody                                | опека              |
+| disclosed                              | раскрытый          |
+spokeperson
+feast
+.....
+rips
+taken advantage from
+brand
+
+1. made off
+2. steal
+3. amused
+4. perplexed
+5. reveal
+6. amused
+7. -
+8. notorious
+9. -
+10. ripped
+11. brand
+12. make off
+13. baffled
+
+7A
+a
+2. enough
+3. too much
+4. too
+5. too much
+6. enough
+7. too
+8. too many
+b
+1. They're so nice people that I'm sure you'll like thim!
+2. It was such a boring film that we leaft halfway through
+3. You've read that book so many times that you must know every word by now
+4. She wrote her complaint in such a way that we thought she was being kind
+5. There was so much food that we couldn't eat it all
+6. They're such lazy that they never do any homework
+c
+2. so pity
+3. old enough
+4. too tired to
+5. such a good player
+6. so serious that
+
+1) He is too tired. He didn't sleep enough. He is going to have such a long day
+2) He is so active. Such a good employer. He has already done so much work
+3) He is so alone. Such a bad situation. Too many people around but nobody with him
+4) Such a warm day. So many poeple around. The sand is too hot
+5) This movie is so scary. It too difficult to watch. Such a bad decision
+6) Such a bad cold. He feels too bad. But the bed is warm enough
+7) I ran too many kilomiters. It is enough. Such a good jogging.
+8) We are so happy. This concert is too good. Such a great idea to visit it
+
+# Homework 2
+## 11-10: 14(d)
+Hi Sophie,
+
+It’s great to hear from you again! Thank you for your email. I'm glad that you’re feeling better after your flu. Sorry I have not written earlier. I have been busy with my school projects. Things have finally settled down now and now I can answer all my emails.
+
+Your plans for next summer sound amazing! I really appreciate how much thought you have already done for your trip. I think getting tickets for a music festival is a fantastic idea, I love live music too! Maybe we could also visit some local sights or spend a day hiking in the countryside.
+
+Now I am very interested, what kind of music festivals do you like? Let me know if you need help looking for tickets or planning anything else. I’m really looking forward to seeing you and having a fantastic time together.
+
+Drop me a line when you can!
+Love,
+Artem
+
+## 18-10: 16(2)
+a)
+Down:
+2) loose - свободный
+3) polo-neck - водолазка
+5) V-neck
+7) sleeveless - без рукавов
+9) striped - в полоску
+Across:
+4) hooded
+6) long sleeved - с длинными рукавами
+8) checked
+10) tight
+11) patterned - с рисунком
+12) spotted
+b)
+2) cotton
+3) lace - кружево
+4) leather
+5) linen - лен
+6) silk
+7) suede - замша
+8) velvet - бархат
+9) fur
+10) lycra - лайкра
+11) woollen
+c)
+2) classic
+3) casual
+4) scruffy - неряшливый
+5) old-fashioned
+## 25-10: 18
+a)
+1) personal electronic devices
+2) rear - задний
+3) approximately
+4) requiring - требующий
+5) proceed to - пройти к
+6) disembark - высаживаться
+7) place
+8) locate
+b)
+1) VIP lounge - VIP-зал
+2) baggage drop-off - сдача багажа
+3) customs
+4) gate - выход
+5) check-in desk - стойка регистрации
+6) runway - взлётно-посадочная полоса
+7) airport terminal - аэропортовый терминал
+8) flight times - время вылетов
+9) security
+10) baggage reclaim - получение багажа
+
+## 01-11: 21
+a)
+1) indoors
+2) in fact 
+3) absolutely
+4) hard
+5) sometimes
+6) straight away - немедленно
+b)
+2) My daughter is hardly ever ill 
+3) His parents are retiring next yeaк
+4) The boy was extremely rude to his teacher
+5) My sister dresses very stylishly
+6) Apparently, James is getting divorced
+7) I would never have thought you were 30
+8) His ankle was bandaged carefully by a nurse
+9) I'll be there in five minutes
+10) I go to bed much later in the summer
+
+## 08-11: 22
+a)
+1) even
+2) lately
+3) especially
+4) nearly
+5) yet
+6) hardly
+7) ever - когда-либо
+8) near
+9) hard
+10) specially
+11) at the moment
+12) at the end - в конце
+13) late
+14) in the end - в конце концов
+15) actually
+16) still
+b)
+2) ideally
+3) certainly
+4) gradually - постепенно
+5) eventually - в конце концов
+6) in fact
+7) obviously
+8) apparently - видимо
+## 15-11: 28(d)
+d)
+2) icy
+3) strong  
+4) heavy  
+5) hail - град  
+6) mild
+7) showers
+8) sunny  
+9) changeable
+10) breeze
+11) settled - установившийся  
+12) bright
+13) drizzling - моросящий дождь  
+14) warm
+15) cool
+16) chilly - холодный  
+17) mist - туман
+18) clear
+19) damp - сыро  
+20) pours - льёт
+## 22-11: 29
+a)
+2) eat, 0
+3) will stay, 1
+4) does not answer, 0
+5) are, 0
+6) will not move, 1
+7) cooks, 1
+8) does not come, 1
+b)
+2) does not leave
+3) does not take
+4) is studying
+5) are
+6) will ask
+7) have not read
+8) do not get
+c)
+2) as soon as he arrives
+3) unless the traffic
+4) in case he forget
+5) before she goes
+6) until you get
+7) if I am
+8) when I go
+## 29-11: 34
+b)
+2) we would have made a snowman
+3) I had known the water was so cold
+4) he did not get so nervous
+5) we would not have missed the last bus
+6) you would not get sunburnt
+7) I could buy my own flat
+d)
+1) If my parents were millionaires, I would travel around the world and help those in need
+2) If I could travel anywhere in the world, I would visit Europe to experience its culture and history
+3) If I spoke perfect English, I would be able to travel around the world without stress
+4) If I had been born in a different country, I would have grown up a different person
+5) If I had lived in the 19th century, I would have experienced life without modern technologies
+6) If I had got up earlier this morning, I would have had more time to do my homework and practic tasks
+## 06-12: 35
+a)
+2) e
+3) h
+4) b
+5) f
+6) c
+7) g
+8) a
+c)
+3) my boss wouldn't shout (all the time)
+4) I could drive
+5) my brother wouldn't use my computer
+6) my son wouldn't stay in bed all morning
+7) I had Dan's phone number
+8) you wouldn't leave the bathroom in a mess
+9) I didn't have to work this weekend
+10)  I had time to read books
+
+# Lesson 15
+1) gut filling
+2) foolproof
+3) light-hearted response
+4) geek
+5) work-life balance
+6) the point of
+7) good-natured rivalry
+8) job-seekers
+
+1. G - What on your CV is the closest thing to a lie?
+2. C - How would your enemy describe you?
+3. E - What's the most selfish thing you have ever done?
+4. B - What's your biggest weakness?
+5. D
+6. A
+7. -
+
+Weather forecast presenter
+Female
+Age: from 20 to 25 years
+Education: isn't important
+
+Time table: 6:1
+5 hours a day
+Be artistic
+
+### Nejnie blinchiki
+
+Products (for 3 servings)
+Milk - 370 g
+Eggs - 2 pcs.
+Sugar - 2 tablespoons
+Flour - 160 g
+Salt - 0.5 teaspoons
+Vegetable oil - 2 tablespoons
+Butter - 35 g
+
+1) Separate the yolks and mix them with sugar and salt.
+2) Add 0.5 cups of milk to the yolks. Beat with a fork.
+3) Gradually add flour and mix. You will get a pretty thick dough.
+4) Now gradually add the remaining milk, mixing it thoroughly with the dough.
+5) Add vegetable oil and mix.
+6) Beat the whites for 1.5 - 2 minutes
+7) Carefully add the proteins to the dough, stirring in a circular motion "from bottom to top".
+8) Heat the pan and grease with vegetable oil.
+9) Pour 1/3 of dough  into the pan. 
+10) Fry the pancake over medium heat for about 1-2 minutes on one side.
+11) Then turn the pancake over and fry for another 1-1.5 minutes on the other side.
+12) Cover each pancake with butter.
+13) Nejnie blinchiki are ready!
+# Lesson 16: the test
+Nowadays a lot of people pass a lot interview every single day, and ability of passing them has become very important. That's why today I would like to give you a piece of advise connected with job interviews. 
+Well, First - and the most common one - do not be afraid of the interview and do your best not to be nervous during it. Even if you have the skills written in the vacancy, your worries can cause you some problems. Also, it is important to practice some common interview questions. Pretty every interviewer would ask you to tell about yourself or about the company. And here comes next important thing: research the company. Try to know it's misson, dresscode, main valuables etc. Adter it you will be able to ensure, that the company is suitable for you and, of course, you will be ready for the questions. So, now you can answer all of the questions, but how about asking yours? Almos always in the end of the interview you have some time to {ask some questions}. That's why you have to be ready for it. For example, you might ask about the team dynamics, performance expectations, or opportunities for professional development. And the last one, also rather common, but important advise: be dressed appropriately. Make sure, that Make your clothing is clean and fitted. You will give a very good impression by doing it.
+That's all for now. I really hope this artcle was useful for you. Have a nice day!
+
+Enhance your interview!
+
+Nowadays many people go through job interviews every single day, and the ability to succeed in them has become very important. That’s why today I’d like to give you some advice about job interviews.
+
+First - and the most common tip - don’t be afraid of the interview, and try your best to stay calm. Even if you have all the skills listed in the job posting, being nervous can cause problems. It’s also important to practice answering common interview questions. Almost every interviewer will ask you to talk about yourself or the company.
+
+This brings us to the next important point: research the company. Try to learn about its mission, dress code, values, and so on. After doing this, you’ll be able to decide whether the company suits you and be better prepared for their questions.
+
+Now that you know how to answer questions, how about asking some of your own? At the end of almost every interview, you’ll have a chance to ask questions. That’s why it’s a good idea to prepare a few in advance. For example, you might ask about the team’s dynamics, performance expectations, or opportunities for professional growth.
+
+Lastly, a common but very important tip: dress appropriately. Make sure your clothes are clean and well-fitted. This will help you leave a positive impression.
+
+That’s all for now! I hope this article was helpful. Have a great day!
+
+will not take the зачёт test
+
+
+# Opinion essay
+
+ This prolem can be seen from another side. When I was 16 I used to attend extra music classes in my school. There was an amazing teacher, who had years of guitar playing experience and very good knowladge of music theory. And of course he wrote his own music. Everyone told him, that he is extremely tallented, but despite this he did not become popular
