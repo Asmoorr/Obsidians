@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Возможности Obsidian.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Возможности Obsidian"
-            }
-          },
-          {
-            "id": "4824656b2537799c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Философия.md",
+                "file": "ООП Экзамен.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Философия"
+              "title": "ООП Экзамен"
             }
           }
         ]
@@ -58,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Наследование",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Поиск"
+              "title": "Search"
             }
           },
           {
@@ -85,7 +71,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Закладки"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -180,46 +166,54 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "systemsculpt-ai:Open SystemSculpt Chat": false,
       "systemsculpt-ai:Open SystemSculpt Chat History": false,
       "systemsculpt-ai:Open SystemSculpt Janitor": false,
-      "systemsculpt-ai:Open Similar Notes Panel": false
+      "systemsculpt-ai:Open Similar Notes Panel": false,
+      "systemsculpt-ai:Open SystemSculpt Search": false,
+      "systemsculpt-ai:Process Meeting Audio": false,
+      "systemsculpt-ai:YouTube Canvas": false
     }
   },
   "active": "10c02cdde3323867",
   "lastOpenFiles": [
+    "ООП Экзамен.md",
+    "img/Pasted image 20260110045321.png",
+    "История linux.md",
     "Философия.md",
+    "Банда Четырёх - Паттерны объектно-ориентированного проектирования.md",
     "Возможности Obsidian.md",
-    "История.md",
+    "Дебаты.md",
+    "Компьютерные сети.md",
+    "Оформление.md",
+    "Прога лаб 5.md",
+    "Прога кр.md",
     "Аргументация.md",
+    "SystemSculpt/Benchmarks",
     "SystemSculpt/Extractions",
     "SystemSculpt/Attachments",
     "SystemSculpt/System Prompts",
     "SystemSculpt/Recordings",
     "SystemSculpt/Saved Chats",
     "SystemSculpt/Chats",
+    "История.md",
     "SystemSculpt",
     "Без названия",
     "ИСТОРИЯ ЭКЗАМЕН.md",
-    "Дебаты.md",
     "English.md",
-    "История linux.md",
-    "Компьютерные сети.md",
-    "Оформление.md",
-    "Прога лаб 5.md",
-    "Прога кр.md",
     "Прога.md",
     "img/Pasted image 20241129005803.png",
     "img/Pasted image 20241129005626.png",
@@ -233,7 +227,6 @@
     "img/Pasted image 20240921121637.png",
     "img/Pasted image 20240921121642.png",
     "Добро пожаловать.md",
-    "img/Pasted image 20240918160552.png",
     "img"
   ]
 }

@@ -199,7 +199,7 @@
   "automaticBackupsEnabled": true,
   "automaticBackupInterval": 24,
   "automaticBackupRetentionDays": 30,
-  "lastAutomaticBackup": 1767975286540,
+  "lastAutomaticBackup": 1767799799912,
   "selectedModelProviders": [],
   "meetingProcessorOptions": {
     "summary": true,
@@ -242,5 +242,11 @@
   "automaticTitleGeneration": false,
   "maxVaultDirectoryEntries": 300,
   "embeddingsMobileEnabled": false,
-  "lastKnownVersion": "4.4.7"
+  "lastKnownVersion": "4.4.7",
+  "_backupMeta": {
+    "type": "automatic",
+    "timestamp": 1767886313472,
+    "createdAt": "2026-01-08T15:31:53.472Z",
+    "version": "1.0"
+  }
 }
