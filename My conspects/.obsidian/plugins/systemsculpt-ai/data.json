@@ -1,11 +1,25 @@
 {
+<<<<<<< HEAD
+=======
+  "settingsMode": "standard",
+  "vaultInstanceId": "09432301-bb32-41f2-b6b5-dd9230ecc501",
+  "embeddingsVectorFormatVersion": 0,
+>>>>>>> origin/main
   "licenseKey": "",
   "licenseValid": false,
   "suppressLicenseUpgradePrompt": false,
   "selectedModelId": "systemsculpt@@openai/o4-mini",
+<<<<<<< HEAD
   "defaultTemplateModelId": "",
   "chatsDirectory": "SystemSculpt/Chats",
   "savedChatsDirectory": "SystemSculpt/Saved Chats",
+=======
+  "useLatestModelEverywhere": true,
+  "defaultTemplateModelId": "",
+  "chatsDirectory": "SystemSculpt/Chats",
+  "savedChatsDirectory": "SystemSculpt/Saved Chats",
+  "benchmarksDirectory": "SystemSculpt/Benchmarks",
+>>>>>>> origin/main
   "lastValidated": 0,
   "systemPrompt": "You are a helpful AI assistant. You help users with their questions and tasks in a clear and concise way.",
   "recordingsDirectory": "SystemSculpt/Recordings",
@@ -35,6 +49,7 @@
   "attachmentsDirectory": "SystemSculpt/Attachments",
   "extractionsDirectory": "SystemSculpt/Extractions",
   "systemPromptsDirectory": "SystemSculpt/System Prompts",
+<<<<<<< HEAD
   "skipEmptyNoteWarning": false,
   "systemPromptType": "general-use",
   "systemPromptPath": "",
@@ -45,6 +60,64 @@
   "titleGenerationPromptType": "precise",
   "titleGenerationPromptPath": "",
   "automaticTitleGeneration": false,
+=======
+  "verifiedDirectories": [
+    "SystemSculpt",
+    "SystemSculpt/Chats",
+    "SystemSculpt/Saved Chats",
+    "SystemSculpt/Recordings",
+    "SystemSculpt/System Prompts",
+    "SystemSculpt/Attachments",
+    "SystemSculpt/Extractions",
+    "SystemSculpt/Benchmarks"
+  ],
+  "workflowEngine": {
+    "enabled": true,
+    "inboxRoutingEnabled": true,
+    "inboxFolder": "10 - capture-intake/Inbox",
+    "processedNotesFolder": "",
+    "taskDestination": "central-note",
+    "taskNotePath": "60 - automations/Central Tasks.md",
+    "autoTranscribeInboxNotes": true,
+    "templates": {
+      "meeting-transcript": {
+        "id": "meeting-transcript",
+        "enabled": false,
+        "sourceFolder": "10 - capture-intake/Transcripts",
+        "destinationFolder": "40 - areas/Meetings",
+        "tasksDestination": "central-note",
+        "tasksNotePath": "60 - automations/Central Tasks.md",
+        "systemPrompt": "You are a meeting operations assistant. Turn messy transcripts into crisp notes highlighting agenda, key decisions, blockers, owners, and next steps. Write in bullet lists and keep timestamps out of the final summary."
+      },
+      "web-clipping": {
+        "id": "web-clipping",
+        "enabled": false,
+        "sourceFolder": "10 - capture-intake/Clippings",
+        "destinationFolder": "20 - resources/Web",
+        "tasksDestination": "central-note",
+        "tasksNotePath": "60 - automations/Central Tasks.md",
+        "systemPrompt": "You are a research clipping analyst. Normalize web clippings, capture source context, summarize the core insight, and list 2-3 follow-up actions if relevant."
+      },
+      "idea-dump": {
+        "id": "idea-dump",
+        "enabled": false,
+        "sourceFolder": "10 - capture-intake/Inbox",
+        "destinationFolder": "30 - projects/Incubator",
+        "tasksDestination": "central-note",
+        "tasksNotePath": "60 - automations/Central Tasks.md",
+        "systemPrompt": "You are a creative project triage assistant. Take short idea dumps, clarify the problem, opportunity, and next experiments. Keep tone energetic but concise."
+      }
+    },
+    "skippedFiles": {}
+  },
+  "skipEmptyNoteWarning": false,
+  "systemPromptType": "general-use",
+  "systemPromptPath": "",
+  "useLatestSystemPromptForNewChats": true,
+  "titleGenerationPrompt": "You are a specialized title generation assistant focused on creating precise, meaningful titles.\n\nYour task is to analyze the provided conversation and generate a single, concise title that:\n- Captures the main topic or central theme of the conversation\n- Uses clear, descriptive language\n- Is between 3-8 words long\n- Avoids unnecessary articles (a, an, the) unless essential\n- Maintains professional tone and proper capitalization\n- Includes key technical terms when relevant\n- NEVER includes characters that are invalid in filenames: \\ / : * ? \" < > |\n- Uses proper spacing between all words\n\nOutput ONLY the title itself - no additional text, no \"Title:\" prefix, no quotes, no explanation.",
+  "titleGenerationPromptType": "precise",
+  "titleGenerationPromptPath": "",
+>>>>>>> origin/main
   "titleGenerationProviderId": "systemsculpt",
   "titleGenerationModelId": "",
   "customProviders": [],
@@ -68,6 +141,7 @@
   "templateHotkey": "/",
   "enableTemplateHotkey": true,
   "lastSaveAsNoteFolder": "SystemSculpt/AI Responses",
+<<<<<<< HEAD
   "showDiagnostics": false,
   "enableExperimentalFeatures": false,
   "maxVaultDirectoryEntries": 300,
@@ -76,6 +150,36 @@
   "contextWindowPercentage": 25,
   "logLevel": 2,
   "debugMode": false,
+=======
+  "chatExportPreferences": {
+    "options": {
+      "includeMetadata": true,
+      "includeSystemPrompt": true,
+      "includeContextFiles": true,
+      "includeContextFileContents": true,
+      "includeConversation": true,
+      "includeUserMessages": true,
+      "includeAssistantMessages": true,
+      "includeToolMessages": false,
+      "includeReasoning": true,
+      "includeToolCalls": true,
+      "includeToolCallArguments": true,
+      "includeToolCallResults": true,
+      "includeImages": true
+    },
+    "lastFolder": "",
+    "openAfterExport": true,
+    "lastFileName": ""
+  },
+  "showDiagnostics": false,
+  "enableExperimentalFeatures": false,
+  "enableSystemSculptProvider": false,
+  "useSystemSculptAsFallback": false,
+  "contextWindowPercentage": 25,
+  "logLevel": 1,
+  "debugMode": false,
+  "preserveReasoningVerbatim": true,
+>>>>>>> origin/main
   "showUpdateNotifications": true,
   "mcpServers": [
     {
@@ -103,7 +207,15 @@
   "mcpAutoAcceptTools": [],
   "mcpEnabled": true,
   "mcpAutoAccept": false,
+<<<<<<< HEAD
   "chatFontSize": "medium",
+=======
+  "toolingConcurrencyLimit": 3,
+  "toolingToolCallTimeoutMs": 30000,
+  "toolingMaxToolResultsInContext": 15,
+  "chatFontSize": "medium",
+  "respectReducedMotion": true,
+>>>>>>> origin/main
   "openAiApiKey": "",
   "embeddingsEnabled": false,
   "embeddingsModel": "text-embedding-3-small",
@@ -114,6 +226,7 @@
     "ignoreChatHistory": true,
     "respectObsidianExclusions": true
   },
+<<<<<<< HEAD
   "embeddingsMobileEnabled": false,
   "embeddingsBatchSize": 5,
   "embeddingsRateLimitPerMinute": 50,
@@ -122,4 +235,60 @@
   "automaticBackupRetentionDays": 30,
   "lastAutomaticBackup": 1753032119561,
   "selectedModelProviders": []
+=======
+  "embeddingsProvider": "systemsculpt",
+  "embeddingsCustomEndpoint": "",
+  "embeddingsCustomApiKey": "",
+  "embeddingsCustomModel": "",
+  "embeddingsBatchSize": 5,
+  "embeddingsRateLimitPerMinute": 50,
+  "embeddingsQuietPeriodMs": 1200,
+  "automaticBackupsEnabled": true,
+  "automaticBackupInterval": 24,
+  "automaticBackupRetentionDays": 30,
+  "lastAutomaticBackup": 1767975286540,
+  "selectedModelProviders": [],
+  "meetingProcessorOptions": {
+    "summary": true,
+    "actionItems": true,
+    "decisions": true,
+    "risks": false,
+    "questions": false,
+    "transcriptCleanup": true
+  },
+  "meetingProcessorOutputDirectory": "SystemSculpt/Extractions",
+  "meetingProcessorOutputNameTemplate": "{{basename}}-processed.md",
+  "youtubeNotesFolder": "SystemSculpt/YouTube",
+  "youtubeCanvasToggles": {
+    "summary": true,
+    "keyPoints": false,
+    "studyNotes": false
+  },
+  "readwiseEnabled": false,
+  "readwiseApiToken": "",
+  "readwiseDestinationFolder": "SystemSculpt/Readwise",
+  "readwiseOrganization": "by-category",
+  "readwiseTweetOrganization": "standalone",
+  "readwiseSyncMode": "interval",
+  "readwiseSyncIntervalMinutes": 1440,
+  "readwiseLastSyncTimestamp": 0,
+  "readwiseLastSyncCursor": "",
+  "readwiseImportOptions": {
+    "highlights": true,
+    "bookNotes": true,
+    "tags": true,
+    "includeHighlightNotes": true,
+    "fullDocument": false,
+    "includeSavedDate": true
+  },
+  "runtimeToolIncompatibleModels": {},
+  "runtimeImageIncompatibleModels": {},
+  "agentMode": false,
+  "defaultAgentMode": false,
+  "defaultIncludeVaultStructure": false,
+  "automaticTitleGeneration": false,
+  "maxVaultDirectoryEntries": 300,
+  "embeddingsMobileEnabled": false,
+  "lastKnownVersion": "4.4.7"
+>>>>>>> origin/main
 }

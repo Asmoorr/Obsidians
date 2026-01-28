@@ -62,6 +62,20 @@
             }
           },
           {
+            "id": "1759e7b542d071e7",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "My conspects/ООП Экзамен.md",
+                "bFile": "My conspects/ООП Экзамен.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: ООП Экзамен"
+            }
+          },
+          {
             "id": "4824656b2537799c",
             "type": "leaf",
             "state": {
@@ -76,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -235,10 +249,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2dacb755ecc413b",
+  "active": "1759e7b542d071e7",
   "lastOpenFiles": [
-    "ВТП/Лекция 1.md",
+    "Аргументация.md",
+    "ООП Экзамен.md",
     "ВТП/Лекция 2.md",
+    "ВТП/Лекция 1.md",
+    "Assets/Attachments/Pasted image 20260110045321.png",
+    "conflict-files-obsidian-git.md",
+    "Банда Четырёх - Паттерны объектно-ориентированного проектирования.md",
     "Базы данных/Лекция 2.md",
     "Базы данных/Практика 1.md",
     "Возможности Obsidian.md",
@@ -254,7 +273,6 @@
     "Прога кр.md",
     "Прога.md",
     "История.md",
-    "Аргументация.md",
     "Assets/Attachments/Pasted image 20240918160549.png",
     "Assets/Attachments",
     "Философия.md",
@@ -277,7 +295,6 @@
     "Assets/Attachments/Pasted image 20240921121634.png",
     "Assets/Attachments/Pasted image 20240921121637.png",
     "Assets/Attachments/Pasted image 20240921121642.png",
-    "Добро пожаловать.md",
-    "Assets/Attachments/Pasted image 20240918160552.png"
+    "Добро пожаловать.md"
   ]
 }
