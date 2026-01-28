@@ -13,12 +13,52 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Возможности Obsidian.md",
-                "mode": "preview",
+                "file": "История.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Возможности Obsidian"
+              "title": "История"
+            }
+          },
+          {
+            "id": "df9684d7dedfd39f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OAuth 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OAuth 2"
+            }
+          },
+          {
+            "id": "1a04a1bede854ab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВТП/Лекция 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лекция 2"
+            }
+          },
+          {
+            "id": "d6ac972022f4d80d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.9.14"
             }
           },
           {
@@ -35,7 +75,8 @@
               "title": "Философия"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Возможности Obsidian.md",
+                "file": "OAuth 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Возможности Obsidian"
+              "title": "Структура OAuth 2"
             }
           },
           {
@@ -184,26 +225,39 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false,
-      "systemsculpt-ai:Open SystemSculpt Chat": false,
-      "systemsculpt-ai:Open SystemSculpt Chat History": false,
-      "systemsculpt-ai:Open SystemSculpt Janitor": false,
-      "systemsculpt-ai:Open Similar Notes Panel": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10c02cdde3323867",
+  "active": "c2dacb755ecc413b",
   "lastOpenFiles": [
-    "Философия.md",
+    "ВТП/Лекция 1.md",
+    "ВТП/Лекция 2.md",
+    "Базы данных/Лекция 2.md",
+    "Базы данных/Практика 1.md",
     "Возможности Obsidian.md",
+    "Компьютерные сети.md",
+    "История linux.md",
+    "SQL.md",
+    "ВТП",
+    "Базы данных.md",
+    "Базы данных",
+    "OAuth 2.md",
+    "ИСТОРИЯ ЭКЗАМЕН.md",
+    "Прога лаб 5.md",
+    "Прога кр.md",
+    "Прога.md",
     "История.md",
     "Аргументация.md",
+    "Assets/Attachments/Pasted image 20240918160549.png",
+    "Assets/Attachments",
+    "Философия.md",
     "SystemSculpt/Extractions",
     "SystemSculpt/Attachments",
     "SystemSculpt/System Prompts",
@@ -211,29 +265,19 @@
     "SystemSculpt/Saved Chats",
     "SystemSculpt/Chats",
     "SystemSculpt",
-    "Без названия",
-    "ИСТОРИЯ ЭКЗАМЕН.md",
     "Дебаты.md",
     "English.md",
-    "История linux.md",
-    "Компьютерные сети.md",
     "Оформление.md",
-    "Прога лаб 5.md",
-    "Прога кр.md",
-    "Прога.md",
-    "img/Pasted image 20241129005803.png",
-    "img/Pasted image 20241129005626.png",
-    "img/Pasted image 20241108155037.png",
-    "img/Pasted image 20241107084607.png",
-    "img/Pasted image 20240918160549.png",
-    "SQL.md",
+    "Assets/Attachments/Pasted image 20241129005803.png",
+    "Assets/Attachments/Pasted image 20241129005626.png",
+    "Assets/Attachments/Pasted image 20241108155037.png",
+    "Assets/Attachments/Pasted image 20241107084607.png",
     "Pasted image 20241023101022.png",
     "ИсИТ.md",
-    "img/Pasted image 20240921121634.png",
-    "img/Pasted image 20240921121637.png",
-    "img/Pasted image 20240921121642.png",
+    "Assets/Attachments/Pasted image 20240921121634.png",
+    "Assets/Attachments/Pasted image 20240921121637.png",
+    "Assets/Attachments/Pasted image 20240921121642.png",
     "Добро пожаловать.md",
-    "img/Pasted image 20240918160552.png",
-    "img"
+    "Assets/Attachments/Pasted image 20240918160552.png"
   ]
 }
