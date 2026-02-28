@@ -4,93 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "2beab955eb1d8119",
+        "id": "c74da42d3788c79d",
         "type": "tabs",
         "children": [
           {
-            "id": "10c02cdde3323867",
+            "id": "ea1bad57bbbb5233",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "История.md",
+                "file": "05_Базы_данных/Функции строк PostgreSQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "История"
+              "title": "Функции строк PostgreSQL"
             }
           },
           {
-            "id": "df9684d7dedfd39f",
+            "id": "290a2a106e1877cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OAuth 2.md",
+                "file": "05_Базы_данных/Функции строк PostgreSQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OAuth 2"
-            }
-          },
-          {
-            "id": "1a04a1bede854ab8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВТП/Лекция 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Лекция 2"
-            }
-          },
-          {
-            "id": "d6ac972022f4d80d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.9.14"
-            }
-          },
-          {
-            "id": "1759e7b542d071e7",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "My conspects/ООП Экзамен.md",
-                "bFile": "My conspects/ООП Экзамен.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: ООП Экзамен"
-            }
-          },
-          {
-            "id": "4824656b2537799c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Философия.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Философия"
+              "title": "Функции строк PostgreSQL"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 343.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,55 +192,58 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "1759e7b542d071e7",
+  "active": "ea1bad57bbbb5233",
   "lastOpenFiles": [
-    "Аргументация.md",
-    "ООП Экзамен.md",
-    "ВТП/Лекция 2.md",
-    "ВТП/Лекция 1.md",
-    "Assets/Attachments/Pasted image 20260110045321.png",
-    "conflict-files-obsidian-git.md",
-    "Банда Четырёх - Паттерны объектно-ориентированного проектирования.md",
-    "Базы данных/Лекция 2.md",
-    "Базы данных/Практика 1.md",
-    "Возможности Obsidian.md",
-    "Компьютерные сети.md",
-    "История linux.md",
+    "05_Базы_данных/Виды UUID и революция UUIDv7.md",
+    "05_Базы_данных/3 способа найти книги в самых популярных жанрах.md",
+    "05_Базы_данных/Функции строк PostgreSQL.md",
+    "02_Knowledge/ООП Виды архитектур.md",
+    "Без названия.md",
     "SQL.md",
-    "ВТП",
-    "Базы данных.md",
-    "Базы данных",
-    "OAuth 2.md",
-    "ИСТОРИЯ ЭКЗАМЕН.md",
-    "Прога лаб 5.md",
-    "Прога кр.md",
-    "Прога.md",
-    "История.md",
-    "Assets/Attachments/Pasted image 20240918160549.png",
-    "Assets/Attachments",
+    "Assets/Attachments/cx1.jpg",
+    "История linux.md",
+    "04_Идеи/Guitar DB.md",
+    "01_ITMO/История/Занятия/Лекция 01 - Международные отношения конца XIX в..md",
+    "01_ITMO/Базы данных/Практика 1.md",
+    "01_ITMO/Аргументация.md",
+    "01_ITMO/Базы данных/Лекция 2.md",
+    "05_Базы_данных",
     "Философия.md",
-    "SystemSculpt/Extractions",
-    "SystemSculpt/Attachments",
-    "SystemSculpt/System Prompts",
-    "SystemSculpt/Recordings",
-    "SystemSculpt/Saved Chats",
-    "SystemSculpt/Chats",
-    "SystemSculpt",
-    "Дебаты.md",
-    "English.md",
-    "Оформление.md",
+    "04_Идеи",
+    "02_Knowledge/История Linux",
+    "01_ITMO/История/Экзамен.md",
+    "03_Книги/Банда Четырёх - Паттерны объектно-ориентированного проектирования.md",
+    "03_Книги",
+    "01_ITMO/1",
+    "01_ITMO/3",
+    "01_ITMO/История/История основная.md",
+    "01_ITMO/История/История (сырая).md",
+    "01_ITMO/История/Заметки/Антанта и Тройственный союз.md.md",
+    "01_ITMO/История/Занятия/Практика 01 - Династия Габсбургов.md",
+    "01_ITMO/История/Занятия/Лекция 10 - Холодная война и Корея.md",
+    "01_ITMO/История/Занятия/Лекция 09 - Создание ООН.md",
+    "01_ITMO/История/Занятия/Лекция 08 - Начало Великой Отечественной войны.md",
+    "01_ITMO/История/Занятия/Лекция 07 - Становление СССР и дипломатия 20-х.md",
+    "01_ITMO/История/Занятия/Лекция 06 - Конец Первой мировой и Версаль.md",
+    "01_ITMO/История/Занятия/Лекция 05 - Революции 1917 года.md",
+    "01_ITMO/История/Занятия/Лекция 04 - Начало Первой мировой войны.md",
+    "Без названия.base",
+    "Без названия.canvas",
+    "Assets/Attachments/Pasted image 20260128215953.png",
+    "Assets/Attachments/Pasted image 20260128215928.png",
+    "Assets/Attachments/Pasted image 20260128215544.png",
+    "01_ITMO/История/Заметки",
+    "01_ITMO/История/Занятия",
+    "01_ITMO/История",
+    "Assets/Attachments/Pasted image 20260110045321.png",
+    "Assets/Attachments/Pasted image 20240918160549.png",
     "Assets/Attachments/Pasted image 20241129005803.png",
     "Assets/Attachments/Pasted image 20241129005626.png",
     "Assets/Attachments/Pasted image 20241108155037.png",
-    "Assets/Attachments/Pasted image 20241107084607.png",
-    "Pasted image 20241023101022.png",
-    "ИсИТ.md",
-    "Assets/Attachments/Pasted image 20240921121634.png",
-    "Assets/Attachments/Pasted image 20240921121637.png",
-    "Assets/Attachments/Pasted image 20240921121642.png",
-    "Добро пожаловать.md"
+    "Assets/Attachments/Pasted image 20241107084607.png"
   ]
 }

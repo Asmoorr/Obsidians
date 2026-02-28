@@ -1,14 +1,3 @@
-## Вставка данных в таблицу
-
-```sql
-INSERT INTO таблица(поле1, поле2) VALUES (значение1, значение2);
-```
-
-```sql
-INSERT INTO genre (name_genre) 
-VALUES ('Роман');
-```
-
 ```sql
 INSERT INTO book(title, author, price, amount) VALUES ("Белая гвардия", "Булгаков М.А.", 540.5, 5);
 ```
