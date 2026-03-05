@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Базы_данных/Функции строк PostgreSQL.md",
+                "file": "05_Базы_данных/Database Manegement System (DBMS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Функции строк PostgreSQL"
+              "title": "Database Manegement System (DBMS)"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Базы_данных/Функции строк PostgreSQL.md",
+                "file": "05_Базы_данных/Индексы (Hash index, B+-Tree, R-Tree etc.).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Функции строк PostgreSQL"
+              "title": "Индексы (Hash index, B+-Tree, R-Tree etc.)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,11 +197,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ea1bad57bbbb5233",
+  "active": "290a2a106e1877cd",
   "lastOpenFiles": [
+    "Assets/Attachments/Pasted image 20260305230802.png",
+    "Assets/Attachments/Pasted image 20260305225357.png",
+    "Assets/Attachments/Pasted image 20260305225336.png",
+    "05_Базы_данных/Database Manegement System (DBMS).md",
+    "05_Базы_данных/Индексы (Hash index, B+-Tree, R-Tree etc.).md",
+    "06_Алгоритмы",
+    "Assets/Attachments/Pasted image 20260305224215.png",
+    "Assets/Attachments/Pasted image 20260305223053.png",
+    "Assets/Attachments/Pasted image 20260305222432.png",
+    "Assets/Attachments/Pasted image 20260305221646.png",
+    "Assets/Attachments/Pasted image 20260305215810.png",
+    "05_Базы_данных/База по Базам Данных - Storage (Индексы, Paging, LSM, B+-Tree, R-Tree) Влад Тен Систем Дизайн.md",
     "05_Базы_данных/Виды UUID и революция UUIDv7.md",
-    "05_Базы_данных/3 способа найти книги в самых популярных жанрах.md",
     "05_Базы_данных/Функции строк PostgreSQL.md",
+    "05_Базы_данных/3 способа найти книги в самых популярных жанрах.md",
     "02_Knowledge/ООП Виды архитектур.md",
     "Без названия.md",
     "SQL.md",
@@ -227,23 +240,11 @@
     "01_ITMO/История/Занятия/Лекция 10 - Холодная война и Корея.md",
     "01_ITMO/История/Занятия/Лекция 09 - Создание ООН.md",
     "01_ITMO/История/Занятия/Лекция 08 - Начало Великой Отечественной войны.md",
-    "01_ITMO/История/Занятия/Лекция 07 - Становление СССР и дипломатия 20-х.md",
-    "01_ITMO/История/Занятия/Лекция 06 - Конец Первой мировой и Версаль.md",
-    "01_ITMO/История/Занятия/Лекция 05 - Революции 1917 года.md",
-    "01_ITMO/История/Занятия/Лекция 04 - Начало Первой мировой войны.md",
     "Без названия.base",
     "Без названия.canvas",
     "Assets/Attachments/Pasted image 20260128215953.png",
     "Assets/Attachments/Pasted image 20260128215928.png",
-    "Assets/Attachments/Pasted image 20260128215544.png",
     "01_ITMO/История/Заметки",
-    "01_ITMO/История/Занятия",
-    "01_ITMO/История",
-    "Assets/Attachments/Pasted image 20260110045321.png",
-    "Assets/Attachments/Pasted image 20240918160549.png",
-    "Assets/Attachments/Pasted image 20241129005803.png",
-    "Assets/Attachments/Pasted image 20241129005626.png",
-    "Assets/Attachments/Pasted image 20241108155037.png",
-    "Assets/Attachments/Pasted image 20241107084607.png"
+    "01_ITMO/История/Занятия"
   ]
 }
