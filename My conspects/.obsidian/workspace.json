@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c74da42d3788c79d",
+        "id": "25a10bd2fd60b326",
         "type": "tabs",
         "children": [
           {
-            "id": "ea1bad57bbbb5233",
+            "id": "9f527907f96e84fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Базы_данных/Database Manegement System (DBMS).md",
+                "file": "06_Алгоритмы/15. 3Sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Database Manegement System (DBMS)"
-            }
-          },
-          {
-            "id": "290a2a106e1877cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Базы_данных/Индексы (Hash index, B+-Tree, R-Tree etc.).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Индексы (Hash index, B+-Tree, R-Tree etc.)"
+              "title": "15. 3Sum"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OAuth 2.md",
+                "file": "07_Английский/Essay about smartphones.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура OAuth 2"
+              "title": "Структура Essay about smartphones"
             }
           },
           {
@@ -175,13 +160,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "c242dd6ab25012fd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 343.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -194,57 +189,59 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-spaced-repetition:Изучать карточки": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "290a2a106e1877cd",
+  "active": "9f527907f96e84fc",
   "lastOpenFiles": [
-    "Assets/Attachments/Pasted image 20260305230802.png",
-    "Assets/Attachments/Pasted image 20260305225357.png",
-    "Assets/Attachments/Pasted image 20260305225336.png",
+    "06_Алгоритмы/167. Two Sum II - Input Array Is Sorted.md",
+    "06_Алгоритмы/15. 3Sum.md",
+    "06_Алгоритмы/344. Reverse String.md",
+    "06_Алгоритмы/125. Valid Palindrome.md",
+    "06_Алгоритмы/72. Edit Distance (Levenshtein distance).md",
+    "06_Алгоритмы/146. LRU Cache.md",
+    "00_Шаблоны/Leetcode.md",
+    "08_Влад_Тен_Алгоритмы/00 Big O.md",
+    "Assets/Attachments/Pasted image 20260310194656.png",
+    "Assets/Attachments/Pasted image 20260310194603.png",
+    "Assets/Attachments/Pasted image 20260310194502.png",
+    "07_Английский/Words/Whiplash.md",
+    "08_Влад_Тен_Алгоритмы",
+    "07_Английский/Words/Bad Omens.md",
+    "2026-03-10.md",
+    "06_Алгоритмы/LRU Cache/prog.py",
+    "06_Алгоритмы/LRU Cache/Без названия.md",
+    "06_Алгоритмы/Без названия.base",
+    "Без названия 2.base",
+    "Без названия 1.base",
+    "06_Алгоритмы/LRU Cache",
+    "00_Шаблоны",
+    "Assets/Attachments/Pasted image 20260306150135.png",
+    "07_Английский/Essay about smartphones.md",
+    "Без названия.md",
+    "English.md",
+    "Без названия.base",
+    "Assets/Attachments/Pasted image 20260306003112.png",
+    "Assets/Attachments/Pasted image 20260306001529.png",
+    "Assets/Attachments/Pasted image 20260306000639.png",
+    "07_Английский/Words",
+    "07_Английский",
     "05_Базы_данных/Database Manegement System (DBMS).md",
+    "04_Идеи/Guitar DB.md",
+    "02_Knowledge/ООП Виды архитектур.md",
+    "Assets/Attachments/Pasted image 20260305233105.png",
+    "Assets/Attachments/Pasted image 20260305233103.png",
+    "Assets/Attachments/Pasted image 20260305233014.png",
     "05_Базы_данных/Индексы (Hash index, B+-Tree, R-Tree etc.).md",
-    "06_Алгоритмы",
-    "Assets/Attachments/Pasted image 20260305224215.png",
-    "Assets/Attachments/Pasted image 20260305223053.png",
-    "Assets/Attachments/Pasted image 20260305222432.png",
-    "Assets/Attachments/Pasted image 20260305221646.png",
-    "Assets/Attachments/Pasted image 20260305215810.png",
     "05_Базы_данных/База по Базам Данных - Storage (Индексы, Paging, LSM, B+-Tree, R-Tree) Влад Тен Систем Дизайн.md",
     "05_Базы_данных/Виды UUID и революция UUIDv7.md",
     "05_Базы_данных/Функции строк PostgreSQL.md",
     "05_Базы_данных/3 способа найти книги в самых популярных жанрах.md",
-    "02_Knowledge/ООП Виды архитектур.md",
-    "Без названия.md",
     "SQL.md",
-    "Assets/Attachments/cx1.jpg",
     "История linux.md",
-    "04_Идеи/Guitar DB.md",
     "01_ITMO/История/Занятия/Лекция 01 - Международные отношения конца XIX в..md",
-    "01_ITMO/Базы данных/Практика 1.md",
-    "01_ITMO/Аргументация.md",
-    "01_ITMO/Базы данных/Лекция 2.md",
-    "05_Базы_данных",
-    "Философия.md",
-    "04_Идеи",
-    "02_Knowledge/История Linux",
-    "01_ITMO/История/Экзамен.md",
-    "03_Книги/Банда Четырёх - Паттерны объектно-ориентированного проектирования.md",
-    "03_Книги",
-    "01_ITMO/1",
-    "01_ITMO/3",
-    "01_ITMO/История/История основная.md",
-    "01_ITMO/История/История (сырая).md",
-    "01_ITMO/История/Заметки/Антанта и Тройственный союз.md.md",
-    "01_ITMO/История/Занятия/Практика 01 - Династия Габсбургов.md",
-    "01_ITMO/История/Занятия/Лекция 10 - Холодная война и Корея.md",
-    "01_ITMO/История/Занятия/Лекция 09 - Создание ООН.md",
-    "01_ITMO/История/Занятия/Лекция 08 - Начало Великой Отечественной войны.md",
-    "Без названия.base",
-    "Без названия.canvas",
-    "Assets/Attachments/Pasted image 20260128215953.png",
-    "Assets/Attachments/Pasted image 20260128215928.png",
-    "01_ITMO/История/Заметки",
-    "01_ITMO/История/Занятия"
+    "Без названия.canvas"
   ]
 }
