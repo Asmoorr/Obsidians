@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "355. Design Twitter"
             }
+          },
+          {
+            "id": "b24ef3da8608ad95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_ITMO/Комп сети/Лабораторная 1/Объяснение скриптов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Объяснение скриптов"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cycle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,7 +204,6 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
       "obsidian-spaced-repetition:Изучать карточки": false,
       "templater-obsidian:Templater": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
@@ -199,15 +213,36 @@
   },
   "active": "c2dacb755ecc413b",
   "lastOpenFiles": [
-    "06_Алгоритмы/2095. Delete the Middle Node of a Linked List.md",
+    "01_ITMO/Комп сети/Лабораторная 1/lab1-powershell-configure-network.txt",
+    "01_ITMO/Комп сети/Лабораторная 1/lab1-batch-configure-network.txt",
+    "01_ITMO/Комп сети/Лабораторная 1/lab1-powershell-configure-network — копия.ps1",
+    "01_ITMO/Комп сети/Лабораторная 1/lab1-batch-configure-network — копия.bat",
+    "01_ITMO/Комп сети/Лабораторная 1/Отчёт Лабораторная 1.md",
+    "01_ITMO/Комп сети/Лабораторная 1/Отчет.pdf",
+    "01_ITMO/Комп сети/Лабораторная 1/Объяснение скриптов.md",
+    "01_ITMO/Комп сети/report-template.md",
+    "01_ITMO/Комп сети/Лабораторная 1/Практическая работа 1. Консольные средства настройки Windows.docx (1).pdf",
+    "01_ITMO/Комп сети/lab-template.md",
+    "01_ITMO/Комп сети/Лабораторная 1/scripts-explanation.md.tmp.39136.1774305987645",
+    "01_ITMO/Комп сети/Лабораторная 1/scripts-explanation.md.tmp.39136.1774305973321",
+    "01_ITMO/Комп сети/Лабораторная 1/report-content.md",
+    "01_ITMO/Комп сети/Лабораторная 1/scripts-explanation.md.tmp.5296.1774303108371",
+    "01_ITMO/Комп сети/Лабораторная 1/scripts-explanation.md.tmp.2628.1774302362407",
+    "01_ITMO/Комп сети/Лабораторная 1/lab1-powershell-configure-network.ps1",
+    "01_ITMO/Аргументация.md",
+    "01_ITMO/Комп сети/Лабораторная 1.md",
+    "01_ITMO/Комп сети.md",
+    "Наушники для Behringer UM2.md",
+    "06_Алгоритмы/141. Linked List Cycle.md",
+    "System Design interview.md",
     "06_Алгоритмы/355. Design Twitter.md",
+    "06_Алгоритмы/2095. Delete the Middle Node of a Linked List.md",
     "06_Алгоритмы/977. Squares of a Sorted Array.md",
     "06_Алгоритмы/876. Middle of the Linked List.md",
     "06_Алгоритмы/707. Design Linked List.md",
     "06_Алгоритмы/344. Reverse String.md",
     "06_Алгоритмы/206. Reverse Linked List.md",
     "06_Алгоритмы/167. Two Sum II - Input Array Is Sorted.md",
-    "06_Алгоритмы/141. Linked List Cycle.md",
     "06_Алгоритмы/15. 3Sum.md",
     "06_Алгоритмы/11. Container With Most Water.md",
     "06_Алгоритмы/125. Valid Palindrome.md",
@@ -220,30 +255,9 @@
     "Assets/Attachments/Pasted image 20260313195651.png",
     "Assets/Attachments/Pasted image 20260313195353.png",
     "Assets/Attachments/Pasted image 20260313195315.png",
-    "05_Базы_данных/SQL.md",
-    "05_Базы_данных/Database Manegement System (DBMS).md",
-    "05_Базы_данных/Функции строк PostgreSQL.md",
-    "05_Базы_данных/Индексы (Hash index, B+-Tree, R-Tree etc.).md",
-    "05_Базы_данных/Виды UUID и революция UUIDv7.md",
-    "05_Базы_данных/База по Базам Данных - Storage (Индексы, Paging, LSM, B+-Tree, R-Tree) Влад Тен Систем Дизайн.md",
-    "05_Базы_данных/3 способа найти книги в самых популярных жанрах.md",
-    "06_Алгоритмы/146. LRU Cache.md",
-    "История linux.md",
-    "Компьютерные сети.md",
-    "ООП Экзамен.md",
-    "Без названия 1.base",
-    "Без названия.base",
-    "03_Книги/pdfs/Программирование/Шривастава Анураг - Elasticsearch для разработчиков, 2-е изд. (Библиотека программиста) - 2025.pdf",
     "Assets/Attachments/Pasted image 20260312142156.png",
     "Assets/Attachments/Pasted image 20260312142035.png",
     "Assets/Attachments/Pasted image 20260312142024.png",
-    "03_Книги/pdfs/Программирование/С. Макконнелл - Идеальный код.pdf",
-    "Без названия 3.base",
-    "Без названия 2.base",
-    "03_Книги/pdfs/Программирование/Билл Любанович - FastAPI веб-разработка на Python.pdf",
-    "03_Книги/pdfs/Программирование/Мартин Роберт - Идеальная работа.pdf",
-    "03_Книги/pdfs/Программирование/Паттерны ООП.pdf",
-    "03_Книги/pdfs/Программирование",
     "Assets/Attachments/Pasted image 20260311010651.png",
     "Без названия.canvas"
   ]

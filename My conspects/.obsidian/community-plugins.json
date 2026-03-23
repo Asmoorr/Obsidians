@@ -4,5 +4,7 @@
   "nldates-obsidian",
   "insert-unsplash-image",
   "templater-obsidian",
-  "pdf-plus"
+  "pdf-plus",
+  "obsidian-local-rest-api",
+  "mcp-tools"
 ]
