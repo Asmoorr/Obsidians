@@ -1,3 +1,11 @@
+---
+topic: databases
+date: "2026-03-05"
+tags:
+  - databases
+  - indexes
+---
+
 Во-первых бывают кластерные и некластерные
 
 ![[Pasted image 20260305225336.png]]

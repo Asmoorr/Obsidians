@@ -1,3 +1,11 @@
+---
+topic: databases
+date: "2024-11-14"
+tags:
+  - databases
+  - sql
+---
+
 ```sql
 INSERT INTO book(title, author, price, amount) VALUES ("Белая гвардия", "Булгаков М.А.", 540.5, 5);
 ```

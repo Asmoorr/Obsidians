@@ -1,3 +1,10 @@
+---
+topic: databases
+date: "2026-03-05"
+tags:
+  - databases
+  - architecture
+---
 
 ## Архитектура системы управления базами данных
 
