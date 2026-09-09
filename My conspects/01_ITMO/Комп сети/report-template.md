@@ -1,7 +1,7 @@
 ---
 title: "{{НАЗВАНИЕ}}"
 discipline: "{{ДИСЦИПЛИНА}}"
-lab_number: "{{№}}"
+lab_number:
 student: "{{ФИО}}"
 group: "{{ГРУППА}}"
 teacher: "{{ПРЕПОДАВАТЕЛЬ}}"

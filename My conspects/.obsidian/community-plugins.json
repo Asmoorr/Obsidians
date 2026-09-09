@@ -6,5 +6,19 @@
   "templater-obsidian",
   "pdf-plus",
   "obsidian-local-rest-api",
-  "mcp-tools"
+  "mcp-tools",
+  "image-converter",
+  "remember-cursor-position",
+  "obsidian-paste-image-rename",
+  "mousewheel-image-zoom",
+  "copy-url-in-preview",
+  "obsidian-hider",
+  "obsidian-custom-frames",
+  "cmdr",
+  "obsidian-charts",
+  "calendar",
+  "obsidian-auto-link-title",
+  "auto-card-link",
+  "file-manager",
+  "mehrmaid"
 ]

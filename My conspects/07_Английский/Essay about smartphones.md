@@ -24,7 +24,7 @@ circumstance `ˈsɜːkəmstəns`
 I can't imagine a circumstance in which I would do that.
 (В итоговом тексте фраза была перестроена, но для перевода слова «в обстоятельствах» из первого черновика используется in circumstances)
 [[2026-03-06]]
-<!--SR:!2026-03-13,3,250-->
+<!--SR:!2026-03-31,2,230-->
 
 provide `prəˈvaɪd`
 ?
@@ -49,7 +49,7 @@ mindless content consumption `ˈmaɪndləs ˈkɒntent kənˈsʌmpʃən`
 His behavior was a result of mindless panic.
 First of all, mindless content consumption is an extremely growing problem.
 [[2026-03-06]]
-<!--SR:!2026-03-12,2,248-->
+<!--SR:!2026-04-05,7,268-->
 
 confirm `kənˈfɜːm`
 ?
@@ -57,7 +57,7 @@ confirm `kənˈfɜːm`
 Please write to confirm your reservation.
 Also, scientific studies confirm that overusing mobile phones can lead to anxiety.
 [[2026-03-06]]
-<!--SR:!2026-03-12,2,248-->
+<!--SR:!2026-04-03,5,248-->
 
 anxiety `æŋˈzaɪətɪ`
 ?
@@ -65,7 +65,7 @@ anxiety `æŋˈzaɪətɪ`
 She suffers from generalized anxiety disorder.
 Also, scientific studies confirm that overusing mobile phones can lead to anxiety.
 [[2026-03-06]]
-<!--SR:!2026-03-13,3,268-->
+<!--SR:!2026-04-09,11,288-->
 
 recognize `ˈrekəgnaɪz`
 ?
@@ -73,7 +73,7 @@ recognize `ˈrekəgnaɪz`
 You must recognize the fact that the situation has changed.
 And recognizing these negative effects is significantly important to find a balance in our digital lives.
 [[2026-03-06]]
-<!--SR:!2026-03-18,8,250-->
+<!--SR:!2026-04-18,20,250-->
 
 mindful usage `ˈmaɪndf(ə)l ˈjuːzɪʤ`
 ?
@@ -81,6 +81,6 @@ mindful usage `ˈmaɪndf(ə)l ˈjuːzɪʤ`
 We must be mindful of the consequences of our actions.
 Since we can hardly imagine our life without mobile phones, we just have to teach ourselves mindful usage.
 [[2026-03-06]]
-<!--SR:!2026-03-18,8,250-->
+<!--SR:!2026-04-26,28,270-->
 
 #flashcards 

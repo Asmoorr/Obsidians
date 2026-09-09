@@ -3,7 +3,7 @@ whiplash `ˈwɪplæʃ`
 **резкий удар, хлыстовой эффект; (перен.) жёсткое давление**
 Fletcher's teaching style gives the band emotional _whiplash_.
 [[2026-03-10]]
-<!--SR:!2026-03-11,1,230-->
+<!--SR:!2026-03-31,2,230-->
 
 ---
 
@@ -30,7 +30,7 @@ bones `bəʊnz`
 **кости; (жарг.) тромбон**
 The _bones_ section keeps missing the cue during rehearsal.
 [[2026-03-10]]
-<!--SR:!2026-03-11,1,230-->
+<!--SR:!2026-03-30,1,210-->
 
 ---
 
@@ -39,7 +39,7 @@ squeaker `ˈskwiːkər`
 **пискля; тот, кто издаёт писклявый звук**
 That cymbal hit sounded like a _squeaker_. Try again.
 [[2026-03-10]]
-<!--SR:!2026-03-11,1,230-->
+<!--SR:!2026-03-30,1,210-->
 
 ---
 
@@ -48,7 +48,7 @@ drag `dræɡ`
 **тащить, тянуть; замедлять темп**
 You're _dragging_ the tempo again. Stay with the band.
 [[2026-03-10]]
-<!--SR:!2026-03-13,3,250-->
+<!--SR:!2026-04-08,10,270-->
 
 ---
 
@@ -57,7 +57,7 @@ suppose `səˈpəʊz`
 **полагать, предполагать**
 I _suppose_ you think that was acceptable playing?
 [[2026-03-10]]
-<!--SR:!2026-03-11,1,230-->
+<!--SR:!2026-03-30,1,210-->
 
 ---
 
@@ -75,7 +75,7 @@ single-tear `ˌsɪŋɡl ˈtɪr`
 **одинокая слеза**
 A _single tear_ rolled down Andrew’s face after the rehearsal.
 [[2026-03-10]]
-<!--SR:!2026-03-13,3,250-->
+<!--SR:!2026-04-10,12,270-->
 
 ---
 
@@ -84,7 +84,7 @@ faggot-lipped `ˈfæɡət lɪpt`
 **оскорбительное выражение (грубое оскорбление)**
 Fletcher screams insults, calling the drummer _faggot-lipped_.
 [[2026-03-10]]
-<!--SR:!2026-03-11,1,230-->
+<!--SR:!2026-04-01,3,250-->
 
 ---
 
@@ -93,7 +93,7 @@ weep `wiːp`
 **плакать, рыдать**
 The student started _weeping_ after Fletcher humiliated him.
 [[2026-03-10]]
-<!--SR:!2026-03-11,1,230-->
+<!--SR:!2026-03-31,2,230-->
 
 ---
 
@@ -102,7 +102,7 @@ slobber `ˈslɒbər`
 **пускать слюни, слюнявить**
 He was _slobbering_ while trying to explain himself.
 [[2026-03-10]]
-<!--SR:!2026-03-11,1,230-->
+<!--SR:!2026-03-30,1,210-->
 
 ---
 
@@ -129,7 +129,7 @@ demolish `dɪˈmɒlɪʃ`
 **разрушать, уничтожать; разгромить**
 Fletcher _demolished_ the drummer with criticism.
 [[2026-03-10]]
-<!--SR:!2026-03-11,1,230-->
+<!--SR:!2026-03-31,2,230-->
 
 ---
 
@@ -156,7 +156,7 @@ chart `tʃɑːrt`
 **нотная схема, партитура (в джазе)**
 Follow the _chart_ exactly. Don't improvise.
 [[2026-03-10]]
-<!--SR:!2026-03-11,1,230-->
+<!--SR:!2026-03-30,1,210-->
 
 ---
 
@@ -165,7 +165,7 @@ rehearsal `rɪˈhɜːrsəl`
 **репетиция**
 The band stayed all night for _rehearsal_.
 [[2026-03-10]]
-<!--SR:!2026-03-13,3,250-->
+<!--SR:!2026-04-06,8,250-->
 
 ---
 
@@ -183,7 +183,7 @@ pursue `pərˈsuː`
 **преследовать, стремиться к**
 Andrew keeps _pursuing_ perfection.
 [[2026-03-10]]
-<!--SR:!2026-03-11,1,230-->
+<!--SR:!2026-03-30,1,210-->
 
 ---
 
@@ -192,7 +192,7 @@ struggle `ˈstrʌɡl`
 **бороться, с трудом делать**
 He is _struggling_ to keep up with Fletcher's tempo.
 [[2026-03-10]]
-<!--SR:!2026-03-11,1,230-->
+<!--SR:!2026-03-30,1,210-->
 
 ---
 
@@ -237,7 +237,7 @@ distress `dɪˈstres`
 **страдание, сильный стресс**
 Andrew hides his _distress_ after rehearsal.
 [[2026-03-10]]
-<!--SR:!2026-03-11,1,230-->
+<!--SR:!2026-03-30,1,210-->
 
 ---
 
@@ -246,7 +246,7 @@ scot-free `ˌskɒt ˈfriː`
 **безнаказанно, без последствий**
 You think you can mess up the chart and walk away _scot-free_?
 [[2026-03-10]]
-<!--SR:!2026-03-11,1,230-->
+<!--SR:!2026-03-30,1,210-->
 
 ---
 
@@ -264,7 +264,7 @@ moron `ˈmɔːrɒn`
 **идиот, тупица**
 Were you rushing or dragging, you _moron_?
 [[2026-03-10]]
-<!--SR:!2026-03-11,1,230-->
+<!--SR:!2026-03-30,1,210-->
 
 ---
 
@@ -273,7 +273,7 @@ decapitate `dɪˈkæpɪteɪt`
 **обезглавить; (перен.) резко убрать лидера**
 That mistake practically _decapitates_ the whole performance.
 [[2026-03-10]]
-<!--SR:!2026-03-11,1,230-->
+<!--SR:!2026-03-30,1,210-->
 
 ---
 

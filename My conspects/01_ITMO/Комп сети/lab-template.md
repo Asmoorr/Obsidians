@@ -1,7 +1,7 @@
 ---
 title: "{{НАЗВАНИЕ}}"
 discipline: Компьютерные сети
-lab_number: "{{№}}"
+lab_number:
 date: "{{ДАТА}}"
 status: "{{черновик | готово}}"
 tags:

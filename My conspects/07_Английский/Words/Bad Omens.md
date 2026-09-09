@@ -28,7 +28,7 @@ wait out `weɪt aʊt`
 Let's *wait out* the storm before we go outside.
 So will you *wait me out*?
 [[2026-03-06]]
-<!--SR:!2026-03-11,1,210-->
+<!--SR:!2026-03-30,1,190-->
 
 stay away `steɪ əˈweɪ`
 ?
@@ -44,7 +44,7 @@ get over `get ˈəʊvə`
 It took her a few months to *get over* the flu.
 Heaven knows I ain't *getting over* you.
 [[2026-03-06]]
-<!--SR:!2026-03-19,9,250-->
+<!--SR:!2026-04-03,5,230-->
 
 amend `əˈmend`
 ?
@@ -52,7 +52,7 @@ amend `əˈmend`
 The president agreed to *amend* the constitution.
 We will make *amends* / 'Til then I'll just pretend.
 [[2026-03-06]]
-<!--SR:!2026-03-11,1,210-->
+<!--SR:!2026-03-30,1,190-->
 
 weigh down `weɪ daʊn`
 ?
@@ -60,7 +60,7 @@ weigh down `weɪ daʊn`
 The heavy backpack *weighed* him *down*.
 *Weigh down* on me, stay 'til morning.
 [[2026-03-06]]
-<!--SR:!2026-03-11,1,210-->
+<!--SR:!2026-03-30,1,190-->
 
 worthy `ˈwɜːði`
 ?
@@ -68,7 +68,7 @@ worthy `ˈwɜːði`
 The charity is a *worthy* cause.
 Way down, would you say I'm *worthy*?
 [[2026-03-06]]
-<!--SR:!2026-03-11,1,210-->
+<!--SR:!2026-03-31,2,210-->
 
 way down `weɪ daʊn`
 ?
@@ -84,7 +84,7 @@ omen `ˈəʊmən`
 A black cat crossing your path is considered a bad *omen*.
 *(Слово из названия группы Bad Omens — «Плохие приметы / Дурные знаки»)*
 [[2026-03-06]]
-<!--SR:!2026-03-11,1,210-->
+<!--SR:!2026-03-30,1,190-->
 
 tore `tɔː`
 ?
@@ -92,7 +92,7 @@ tore `tɔː`
 He *tore* the letter into pieces.
 It's like we cut the brakes, *tore* 'em off the car.
 [[2026-03-06]]
-<!--SR:!2026-03-12,2,230-->
+<!--SR:!2026-04-05,7,250-->
 
 hesitate `ˈhezɪteɪt`
 ?
