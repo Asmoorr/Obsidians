@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3e60fa7e9bb53bfc",
+        "id": "c0788e25c9107b31",
         "type": "tabs",
         "children": [
           {
-            "id": "26f6546099d28dfd",
+            "id": "f43e31e574a8ef50",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "01_ITMO/Админ Комп Сетей/Презентации/01.pdf",
-                "page": 10,
-                "left": -17,
-                "top": 73,
-                "zoom": 0.8854166666666666
+                "file": "05_Базы_данных/CMU Inttro to DbS 2025/05/notes.pdf",
+                "page": 2,
+                "left": -24,
+                "top": 26,
+                "zoom": 0.6654411764705884
               },
               "icon": "lucide-file-text",
-              "title": "01"
-            }
-          },
-          {
-            "id": "431f76d60212b8b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_Habr/TCP и UDP, или Два столпа Интернета.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TCP и UDP, или Два столпа Интернета"
+              "title": "notes"
             }
           }
         ]
@@ -71,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Наследование",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +65,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Поиск"
+              "title": "Search"
             }
           },
           {
@@ -89,14 +75,14 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Закладки"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 222.50152587890625
+    "width": 241.5110321044922
   },
   "right": {
     "id": "8f91c82a15e6cb3a",
@@ -160,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07_Английский/Essay about smartphones.md",
+                "file": "Возможности Obsidian.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Essay about smartphones"
+              "title": "Структура Возможности Obsidian"
             }
           },
           {
@@ -180,7 +166,7 @@
             }
           },
           {
-            "id": "c242dd6ab25012fd",
+            "id": "98885bd040a7f946",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -190,7 +176,7 @@
             }
           },
           {
-            "id": "149f2eb4493b2d56",
+            "id": "acf015d5f1f387fc",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -209,69 +195,67 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false,
+      "bases:Создать новую базу": false,
       "obsidian-spaced-repetition:Изучать карточки": false,
       "templater-obsidian:Templater": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c242dd6ab25012fd",
+  "active": "f43e31e574a8ef50",
   "lastOpenFiles": [
-    "10_Habr/Что такое CDN и как она работает объяснение на примере доставки котиков.md",
-    "10_Habr/Протоколы семейства TCPIP. Теория и практика.md",
-    "10_Habr/Как устроена электронная почта на VPS основы SMTP, IMAP и POP3.md",
-    "10_Habr/Мой VPN пережил белые списки. Архитектура из 4 уровней за 265₽ в месяц.md",
-    "10_Habr/Интернет бесподобен! Спасибо, TCP.md",
-    "10_Habr/01_Сети_для_маленьких/5 Часть пятая. ACL и NAT.md",
-    "10_Habr/01_Сети_для_маленьких/4 Часть четвертая. L2 и STP.md",
-    "10_Habr/01_Сети_для_маленьких/3 Часть третья. Статическая маршрутизация.md",
-    "10_Habr/01_Сети_для_маленьких/2 Часть вторая. Коммутация.md",
-    "10_Habr/01_Сети_для_маленьких/1 Часть первая (которая после нулевой). Подключение к оборудованию cisco.md",
-    "10_Habr/01_Сети_для_маленьких/0 Часть нулевая. Планирование.md",
-    "10_Habr/TCP и UDP, или Два столпа Интернета.md",
-    "10_Habr/01_Сети_для_маленьких/6 Часть шестая. Динамическая маршрутизация.md",
-    "10_Habr/01_Сети_для_маленьких",
-    "10_Habr/Почтовый сервер с нуля. Часть первая.md",
-    "10_Habr/RPC и способы его мониторинга.md",
-    "Of the various forms of IPC.md",
-    "00_Шаблоны/note-template.md",
-    "Без названия.md",
-    "00_Шаблоны/leetcode.md",
-    "01_ITMO/Аргументация.md",
-    "02_Knowledge/ООП Виды архитектур.md",
-    "05_Базы_данных/3 способа найти книги в самых популярных жанрах.md",
-    "05_Базы_данных/База по Базам Данных - Storage (Индексы, Paging, LSM, B+-Tree, R-Tree) Влад Тен Систем Дизайн.md",
-    "08_Влад_Тен_Алгоритмы/03 Linked List.md",
-    "08_Влад_Тен_Алгоритмы/00 Big O.md",
-    "English.md",
-    "01_ITMO/Админ Комп Сетей/Презентации/01.pdf",
-    "Clippings",
-    "01_ITMO/Админ Комп Сетей/Презентации",
-    "01_ITMO/Админ Комп Сетей/Новая папка",
-    "01_ITMO/Админ Комп Сетей",
-    "Без названия.canvas",
-    "Без названия.base",
-    "01_ITMO/Базы данных/LearnSQL/DML/Без названия",
-    "01_ITMO/Базы данных/LearnSQL/DML",
-    "01_ITMO/Комп сети/Лабораторная 6/Трансляция адресов (NAT).pdf",
-    "01_ITMO/Комп сети/Лабораторная 6/img2.png",
-    "01_ITMO/Комп сети/Лабораторная 6/img3.png",
+    "05_Базы_данных/CMU Inttro to DbS 2025/06/lec06.md",
+    "05_Базы_данных/CMU Inttro to DbS 2025/05/slides.pdf",
+    "05_Базы_данных/CMU Inttro to DbS 2025/05/notes.pdf",
+    "05_Базы_данных/CMU Inttro to DbS 2025/05/lec05.md",
+    "05_Базы_данных/CMU Inttro to DbS 2025/04/notes.pdf",
+    "05_Базы_данных/CMU Inttro to DbS 2025/04/slides.pdf",
+    "05_Базы_данных/CMU Inttro to DbS 2025/03/notes.pdf",
+    "05_Базы_данных/CMU Inttro to DbS 2025/03/lec03.md",
+    "01_ITMO/Веб прога/Доклад.md",
+    "05_Базы_данных/CMU Inttro to DbS 2025/CMU Intro to Database Systems (Fall 2025).md",
+    "05_Базы_данных/CMU Inttro to DbS 2025/25/lec25.md",
+    "05_Базы_данных/CMU Inttro to DbS 2025/25/slides.pdf",
+    "05_Базы_данных/CMU Inttro to DbS 2025/25",
+    "05_Базы_данных/CMU Inttro to DbS 2025/24/lec24.md",
+    "05_Базы_данных/CMU Inttro to DbS 2025/24/notes.pdf",
+    "05_Базы_данных/CMU Inttro to DbS 2025/24/slides.pdf",
+    "05_Базы_данных/CMU Inttro to DbS 2025/24",
+    "05_Базы_данных/CMU Inttro to DbS 2025/23/lec23.md",
+    "05_Базы_данных/CMU Inttro to DbS 2025/22/lec22.md",
+    "05_Базы_данных/CMU Inttro to DbS 2025/21/lec21.md",
+    "05_Базы_данных/CMU Inttro to DbS 2025/20/lec20.md",
+    "05_Базы_данных/CMU Inttro to DbS 2025/19/lec19.md",
+    "05_Базы_данных/CMU Inttro to DbS 2025/18/lec18.md",
+    "05_Базы_данных/CMU Inttro to DbS 2025/17/lec17.md",
+    "05_Базы_данных/CMU Inttro to DbS 2025/16/lec16.md",
+    "05_Базы_данных/CMU Inttro to DbS 2025/15/lec15.md",
+    "05_Базы_данных/CMU Inttro to DbS 2025/14/lec14.md",
+    "05_Базы_данных/CMU Inttro to DbS 2025/13/lec13.md",
+    "05_Базы_данных/CMU Inttro to DbS 2025/12/lec12.md",
+    "05_Базы_данных/CMU Inttro to DbS 2025/11/lec11.md",
+    "05_Базы_данных/CMU Inttro to DbS 2025/10/lec10.md",
+    "05_Базы_данных/CMU Inttro to DbS 2025/09/lec09.md",
+    "05_Базы_данных/CMU Inttro to DbS 2025/08/lec08.md",
+    "05_Базы_данных/CMU Inttro to DbS 2025/07/lec07.md",
+    "05_Базы_данных/CMU Inttro to DbS 2025/04/lec04.md",
     "01_ITMO/Комп сети/Лабораторная 6/img4.png",
+    "01_ITMO/Комп сети/Лабораторная 6/img3.png",
+    "01_ITMO/Комп сети/Лабораторная 6/img2.png",
     "01_ITMO/Комп сети/Лабораторная 6/img1.png",
-    "01_ITMO/Комп сети/Лабораторная 5/imgs/4_ack.jpg",
+    "01_ITMO/Комп сети/Лабораторная 5/imgs/4_wireshark.jpg",
     "01_ITMO/Комп сети/Лабораторная 5/imgs/4_syn_ack.jpg",
     "01_ITMO/Комп сети/Лабораторная 5/imgs/4_syn.jpg",
-    "01_ITMO/Комп сети/Лабораторная 5/imgs/4_wireshark.jpg",
-    "01_ITMO/Комп сети/Лабораторная 5/imgs/3_b_shark.jpg",
-    "01_ITMO/Комп сети/Лабораторная 5/imgs/3_b.jpg"
+    "01_ITMO/Комп сети/Лабораторная 5/imgs/4_ack.jpg",
+    "01_ITMO/Комп сети/Лабораторная 5/imgs/3_ping_ios.jpg",
+    "01_ITMO/Комп сети/Лабораторная 5/imgs/3_new_rule.jpg"
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "sessionId": "20260808-003844",
+  "startedAt": "2026-08-07T21:38:45.008Z",
+  "pluginVersion": "4.4.7",
+  "vaultName": "My conspects",
+  "obsidianConfigDir": ".obsidian",
+  "enabledPlugins": [
+    "obsidian-git",
+    "systemsculpt-ai"
+  ]
+}
